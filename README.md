@@ -9,3 +9,8 @@ Pueden hacer lo que quieran...
 ### Actualizado desde github
 
 Este es un mensanje actualizado desde github
+
+
+## Probando desde la temrinal local
+
+Prueba dessde la terminal 
