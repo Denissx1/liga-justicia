@@ -11,6 +11,6 @@ Pueden hacer lo que quieran...
 Este es un mensanje actualizado desde github
 
 
-## Probando desde la temrinal local
+## Prueba desde github
 
-Prueba dessde la terminal 
+Prueba desde github #2
